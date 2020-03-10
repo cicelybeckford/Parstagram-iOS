@@ -15,6 +15,7 @@
 		AE6B3C98240CE111002F795C /* CameraViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6B3C97240CE111002F795C /* CameraViewController.swift */; };
 		AE6B3C9C240CFCE9002F795C /* FeedViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6B3C9B240CFCE9002F795C /* FeedViewController.swift */; };
 		AE6B3C9E240D04D9002F795C /* PostCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6B3C9D240D04D9002F795C /* PostCell.swift */; };
+		AE6B3CA02417359D002F795C /* CommentCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE6B3C9F2417359D002F795C /* CommentCell.swift */; };
 		AE98D107240C94420099F9C5 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = AE98D106240C94420099F9C5 /* AppDelegate.swift */; };
 		AE98D10D240C94460099F9C5 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE98D10C240C94460099F9C5 /* Assets.xcassets */; };
 		AE98D110240C94460099F9C5 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = AE98D10F240C94460099F9C5 /* Preview Assets.xcassets */; };
@@ -50,6 +51,7 @@
 		AE6B3C97240CE111002F795C /* CameraViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CameraViewController.swift; sourceTree = "<group>"; };
 		AE6B3C9B240CFCE9002F795C /* FeedViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FeedViewController.swift; sourceTree = "<group>"; };
 		AE6B3C9D240D04D9002F795C /* PostCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PostCell.swift; sourceTree = "<group>"; };
+		AE6B3C9F2417359D002F795C /* CommentCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CommentCell.swift; sourceTree = "<group>"; };
 		AE98D103240C94420099F9C5 /* Parstagram.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Parstagram.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AE98D106240C94420099F9C5 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		AE98D10C240C94460099F9C5 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -142,6 +144,7 @@
 				AE6B3C97240CE111002F795C /* CameraViewController.swift */,
 				AE6B3C9B240CFCE9002F795C /* FeedViewController.swift */,
 				AE6B3C9D240D04D9002F795C /* PostCell.swift */,
+				AE6B3C9F2417359D002F795C /* CommentCell.swift */,
 			);
 			path = Parstagram;
 			sourceTree = "<group>";
@@ -430,6 +433,7 @@
 				AE6B3C9C240CFCE9002F795C /* FeedViewController.swift in Sources */,
 				AE98D107240C94420099F9C5 /* AppDelegate.swift in Sources */,
 				AE6B3C9E240D04D9002F795C /* PostCell.swift in Sources */,
+				AE6B3CA02417359D002F795C /* CommentCell.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
